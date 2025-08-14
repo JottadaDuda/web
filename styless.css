@@ -1,8 +1,12 @@
 body {
-    color: rgb(0, 0, 0);
-    background: rgb(190, 132, 84);
+    color: green;
+    background-color: black;
 }
-img{
-   height: 100px;
+
+header{
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px:
+    color: rgb(42, 122, 288);
    
 }
